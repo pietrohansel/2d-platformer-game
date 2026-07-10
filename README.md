@@ -6,6 +6,8 @@ Um jogo 2D simples desenvolvido com a biblioteca **Pygame** como parte do aprend
 
 Este projeto foi desenvolvido com base no tutorial do YouTube [**"The Ultimate Introduction to Pygame"**](https://youtu.be/AY9MnQ4x3zk?si=RXiWUx8d1TgZGnyy) do canal **Clear Code**. O tutorial oferece uma introdução completa ao desenvolvimento de jogos com Pygame, cobrindo desde conceitos básicos até implementações mais avançadas.
 
+![Demo](v1.gif)
+
 ## 🎮 Funcionalidades
 
 - Controle do jogador com movimento e pulo
